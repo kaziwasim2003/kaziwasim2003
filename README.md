@@ -1,6 +1,26 @@
 # 💫 About Me:
-i am pursuing Btech cse  specilization in AI and Robotics at BRAINWARE UNIVERSITY. i  know python language,c,c++<br><br> I have a strong interest in AI<br>technologies, programming, and<br>problem-solving.<br> I am eager to learn new skills and<br>apply my knowledge to real-world<br>projects.<br> I am also curious to know about<br>any ecom business ideas 
+## 🐧 About Me
 
+I am currently pursuing a **B.Tech in Computer Science Engineering**, specializing in **Artificial Intelligence & Robotics** at **Brainware University**.
+
+I have a strong interest in **Artificial Intelligence, Robotics, Programming, and Problem Solving**. I enjoy exploring new technologies, understanding how things work, and turning ideas into practical projects.
+
+💻 **Technical Interests**
+- Python & C++
+- Artificial Intelligence & Machine Learning
+- Robotics & Automation
+- Problem Solving & Programming
+- Software & Hardware-based Projects
+
+🚀 I am continuously working on improving my programming and technical skills by building projects and experimenting with new technologies.
+
+🤖 My goal is to gain hands-on experience in **AI and Robotics** and work on real-world problems that can be solved through technology.
+
+💡 Apart from technology, I am also curious about **E-commerce, business ideas, and entrepreneurship**, and I enjoy exploring how technology can be combined with business to create useful products and solutions.
+
+📚 **Currently Learning:** AI, Machine Learning, Robotics, and Software Development
+
+🌱 **Always learning. Always building. Always exploring.**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/wasim.kazi.562114) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaziwasimakram) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaziwasim2003@gmail.com) 
